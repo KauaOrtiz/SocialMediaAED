@@ -1,0 +1,58 @@
+{
+    "users": [
+        {
+            "username": "admin1",
+            "name": "admin1",
+            "account": "admin1",
+            "address": "admin1",
+            "family": [
+                "admin2"
+            ],
+            "friends": [
+                "admin2"
+            ],
+            "someone": [
+                "admin2"
+            ],
+            "customer": [
+                "admin2"
+            ]
+        },
+        {
+            "username": "admin2",
+            "name": "admin2",
+            "account": "admin2",
+            "address": "admin2",
+            "family": [
+                "admin1"
+            ],
+            "friends": [
+                "admin1"
+            ],
+            "someone": [
+                "admin1"
+            ],
+            "customer": [
+                "admin1"
+            ]
+        },
+        {
+            "username": "admin3",
+            "name": "admin3",
+            "account": "admin3",
+            "address": "admin3",
+            "family": [
+                "admin2"
+            ],
+            "friends": [
+                "admin2"
+            ],
+            "someone": [
+                "admin2"
+            ],
+            "customer": [
+                "admin2"
+            ]
+        }
+    ]
+}
