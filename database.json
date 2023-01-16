@@ -6,7 +6,7 @@
             "account": "admin1",
             "address": "admin1",
             "family": [
-                "admin2"
+                "admin2","admin3"
             ],
             "friends": [
                 "admin2"
@@ -24,13 +24,13 @@
             "account": "admin2",
             "address": "admin2",
             "family": [
-                "admin1"
+                "admin1", "admin3"
             ],
             "friends": [
-                "admin1"
+                "admin1","admin3"
             ],
             "someone": [
-                "admin1"
+                "admin3"
             ],
             "customer": [
                 "admin1"
@@ -48,7 +48,7 @@
                 "admin2"
             ],
             "someone": [
-                "admin2"
+                "admin4"
             ],
             "customer": [
                 "admin2"
